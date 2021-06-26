@@ -1,0 +1,781 @@
+
+
+
+<!DOCUMENT html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="yandex-verification" content="0138b335a8996534">
+		<title>404 Not Found</title>
+
+		<link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico">
+		<link rel="SHORTCUT ICON" href="/favicon.ico">
+		<link href="../css/css.css" rel="stylesheet" type="text/css">
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="../css/kernel_main.css" type="text/css" rel="stylesheet">
+<link href="../css/template_c906449af6a6ab6e2c8a006f2f979152.css" type="text/css" data-template-style="true" rel="stylesheet">
+
+
+
+	</head>
+<body>
+	<div class="container-fluid header-top-line-nav">
+		<div class="row">
+			<div class="container">
+				<div class="row">
+					
+					<div class="col-sm-9 col-lg-9 col-md-9 col-xs-8 text-left">
+						<a href="javascript:void(0);"><span class="fa fa-user"></span></a>
+						<ul>
+							<li><a href="/help/">Оплата и доставка</a></li>
+															<li><a href="javascript:void(0)" onclick="$('#ModalAuthorizeAndRegistration a[aria-controls=authorize]').tab('show')" data-toggle="modal" data-target="#ModalAuthorizeAndRegistration">Вход</a></li>
+								<li><a href="javascript:void(0)" onclick="$('#ModalAuthorizeAndRegistration a[aria-controls=registration]').tab('show')" data-toggle="modal" data-target="#ModalAuthorizeAndRegistration">Регистрация</a></li>
+															<li><a href="/personal/orders/">Статус заказа</a></li>
+						</ul>
+					</div>
+					
+					<div class="col-sm-3 col-lg-3 col-md-3 col-xs-4 text-right">
+						<a href="http://moshoztorg.ru/?utm_referrer=krepmarket.ru" class="mhtlogo"><img src="mht-logo.png"></a>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="ModalAuthorizeAndRegistration" tabindex="-1" role="dialog" aria-labelledby="myModalAuthorizeAndRegistration" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				</div>
+								<div class="modal-body">
+
+					
+<style type="text/css">
+    [id^=uLogin]{margin-bottom: 20px;}
+    [data-uloginbutton="vkontakte"]:before,
+    [data-uloginbutton="odnoklassniki"]:before,
+    [data-uloginbutton="mailru"]:before,
+    [data-uloginbutton="facebook"]:before {
+        font-size: 32px;
+        color: #ca1010;
+        font-family: "fontello";
+        font-style: normal;
+        font-weight: normal;
+        speak: none;
+        display: inline-block;
+        text-decoration: inherit;
+        width: 1em;
+        margin-right: .2em;
+        text-align: center;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1em;
+        margin-left: .2em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+    [data-uloginbutton="vkontakte"],
+    [data-uloginbutton="odnoklassniki"],
+    [data-uloginbutton="mailru"],
+    [data-uloginbutton="facebook"]{
+        background: none !important;
+        opacity: 1 !important;
+    }
+    [data-uloginbutton="vkontakte"]:before {content: '\f30a'; color: #2B587A;}
+    [data-uloginbutton="odnoklassniki"]:before {content: '\f30d';}
+    [data-uloginbutton="mailru"]:before {content: '\40';}
+    [data-uloginbutton="facebook"]:before {content: '\f301'; color: #3B5998;}
+  </style>
+<p>Авторизоваться через социальные сети</p>
+    <div id="uLogin1" x-ulogin-params="display=panel&fields=first_name,last_name,nickname,city,photo,photo_big,bdate,sex,email,network&providers=vkontakte,facebook&hidden=&redirect_uri=http%3A%2F%2Fwww.krepmarket.ru%3A443%2Flocal%2Ftemplates%2Fadaptive%2Fcss%2Fimg%2Farrows.png"></div>
+					<ul class="nav nav-tabs" role="tablist">
+						<li role="presentation" class="active"><a href="#authorize" aria-controls="authorize" role="tab" data-toggle="tab">Вход</a></li>
+						<li role="presentation"><a href="#registration" aria-controls="registration" role="tab" data-toggle="tab">Регистрация</a></li>
+						<li role="presentation" style="display: none;"><a href="#forget" aria-controls="forget" role="tab" data-toggle="tab">Востановить пароль</a></li>
+					</ul>
+
+					<!-- Tab panes -->
+					<div class="tab-content">
+
+						<div role="tabpanel" class="tab-pane fade in active" id="authorize">
+
+							<form name="form_auth" method="post" target="_top" action="/local/templates/adaptive/css/img/arrows.png" id="authorize-form">
+	<input type="hidden" name="AUTH_FORM" value="Y">
+	<input type="hidden" name="TYPE" value="AUTH">
+			<input type="hidden" name="backurl" value="/local/templates/adaptive/css/img/arrows.png">
+		
+	<div class="form-group">
+		<label for="authorize_USER_LOGIN">Почтовый адрес</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-envelope"></i></div>
+			<input type="text" class="form-control" id="authorize_USER_LOGIN" name="USER_LOGIN" value placeholder="example@mail.ru">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="authorize_USER_PASSWORD">Пароль</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-key"></i></div>
+			<input type="password" class="form-control" id="authorize_USER_PASSWORD" name="USER_PASSWORD" placeholder="******">
+		</div>
+	</div>
+	<div class="error">
+					</div>
+	<div class="form-group input-group">
+		<input type="submit" name="Login" value="Войти" class="btn btn-primary">
+	</div>
+	<div class="form-group input-group">
+		<a href="javascript:void(0)" onclick="$('#ModalAuthorizeAndRegistration a[aria-controls=forget]').tab('show')">Я не помню пароль</a>
+	</div>
+</form>
+<hr>
+						</div>
+						<div role="tabpanel" class="tab-pane fade" id="registration">
+
+							<form id="registration-form" method="post" action="/local/templates/adaptive/css/img/arrows.png" name="bform">
+
+			<input type="hidden" name="backurl" value="/local/templates/adaptive/css/img/arrows.png">
+		<input type="hidden" name="AUTH_FORM" value="Y">
+	<input type="hidden" name="TYPE" value="REGISTRATION">
+
+	<div class="form-group">
+		<label for="registration_USER_EMAIL">Почтовый адрес</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-envelope"></i></div>
+			<input type="text" class="form-control" name="USER_EMAIL" id="registration_USER_EMAIL" onkeyup="$('#registration-form [name=USER_LOGIN]').val($(this).val())" onblur="$('#registration-form [name=USER_LOGIN]').val($(this).val())" value placeholder="example@mail.ru">
+			<input type="hidden" class="form-control" name="USER_LOGIN" id="registration_USER_LOGIN" value placeholder="example@mail.ru">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="registration_USER_LAST_NAME">Фамилия</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="glyphicon glyphicon-user"></i></div>
+			<input type="text" class="form-control" name="USER_LAST_NAME" id="registration_USER_LAST_NAME" value placeholder="Фамилия">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="registration_USER_NAME">Имя</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="glyphicon glyphicon-user"></i></div>
+			<input type="text" class="form-control" name="USER_NAME" id="registration_USER_NAME" value placeholder="Имя">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="registration_USER_PASSWORD">Пароль</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-key"></i></div>
+			<input type="password" class="form-control" name="USER_PASSWORD" id="registration_USER_PASSWORD" value placeholder="Пароль">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="registration_USER_CONFIRM_PASSWORD">Повторите пароль</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-key"></i></div>
+			<input type="password" class="form-control" name="USER_CONFIRM_PASSWORD" id="registration_USER_CONFIRM_PASSWORD" value placeholder="Повторите пароль">
+		</div>
+	</div>
+	<div class="error">
+			</div>
+	<div class="form-group input-group">
+		<button type="submit" name="Register" value="Зарегистрироваться" class="btn btn-primary">Зарегистрироваться</button>
+	</div>
+	<div class="form-group input-group">
+		<a href="javascript:void(0)" onclick="$('#ModalAuthorizeAndRegistration a[aria-controls=authorize]').tab('show')">Я уже зарегистрирован</a>
+	</div>
+</form>
+						</div>
+						<div role="tabpanel" class="tab-pane fade" id="forget">
+
+							<form id="forget-form" name="bform" method="post" target="_top" action="/local/templates/adaptive/css/img/arrows.png">
+			<input type="hidden" name="backurl" value="/local/templates/adaptive/css/img/arrows.png">
+		<input type="hidden" name="AUTH_FORM" value="Y">
+	<input type="hidden" name="TYPE" value="SEND_PWD">
+	<p>
+		Если вы забыли пароль, введите E-Mail.<br>Контрольная строка для смены пароля, а также ваши регистрационные данные, будут высланы вам по E-Mail.	</p>
+	<div class="form-group">
+		<label for="forge_USER_EMAIL">Почтовый адрес</label>
+		<div class="input-group">
+			<div class="input-group-addon"><i class="fa fa-envelope"></i></div>
+			<input type="text" class="form-control" placeholder="example@mail.ru" id="forge_USER_EMAIL" name="USER_EMAIL">
+		</div>
+	</div>
+	<div class="error">
+			</div>
+	<div class="form-group input-group">
+		<input type="submit" class="btn btn-primary" name="send_account_info" value="Выслать">
+	</div>
+	<div class="form-group input-group">
+		<a href="javascript:void(0)" onclick="$('#ModalAuthorizeAndRegistration a[aria-controls=authorize]').tab('show')">Я вспомнил пароль!</a>
+	</div>
+</form>
+						</div>
+
+					</div>
+
+				</div>
+							</div>
+		</div>
+	</div>
+
+	<div class="container-fluid header-layer">
+		<div class="row">
+			<div class="container header-wrapper">
+				<div class="row">
+					<div class="col-sm-3 col-md-3 col-xs-6">
+						<a href="/" class="logo">
+							<img src="logo.png" width="100%">
+						</a>
+					</div>
+					<div class="col-sm-3 col-md-3 col-xs-6">
+						<div class="header-phone-wrap">
+	<div>
+		<img src="header-layer-table-call.png">
+	</div>
+	<div>
+		<span>ОТДЕЛ ПРОДАЖ:</span>
+		<span>+7(495)989-74-04</span>
+	</div>
+</div>
+           
+
+       
+
+					</div>
+					<div class="col-sm-3 col-md-3 col-xs-6">
+
+						<div class="delivery-wrap">
+								<div>
+									<img src="header-layer-table-delivery.png">
+								</div>
+								<div>
+									<span>Бесплатная доставка по Москве до МКАД</span><br>
+									<span>при заказе от 3000 руб.</span>
+								</div>
+						</div>
+
+					</div>
+					<div class="col-sm-3 col-md-3 col-xs-6">
+													<div class="header-layer-table-basket">
+	<table class="dropdown-toggle full-page">
+		<tbody>
+		<tr>
+			<td class="basket-icon">
+				<a href="/basket/"><img src="header-layer-table-basket.png"></a>
+			</td>
+			<td class="basket-result">
+					<span id="allSum_FORMATED">
+			<span>Корзина<br>пуста</span>
+		</span>
+				</td>
+		</tr>
+		</tbody>
+	</table>
+
+	<form method="post" class="dropdown-menu" action="/local/templates/adaptive/css/img/arrows.png" name="basket_form" id="basket_form">
+
+			<ul id="basket_items">
+		<li>
+			<table width="100%">
+				<tr>
+					<td class="desc">В вашей корзине ещё нет товаров.</td>
+				</tr>
+			</table>
+		</li>
+	</ul>
+	
+		<input type="hidden" name="BasketOrder" value="BasketOrder">
+	</form>
+</div>											</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="container header-nav">
+				<div class="row">
+
+					<nav class="navbar navbar-default">
+						<div class="navbar-collapse ">
+
+							<form class="navbar-form navbar-left" role="search" action="/catalog/search.php">
+	<div class="form-group">
+		<input type="text" name="q" class="form-control" placeholder="Поиск">
+		<div class="input-group-addon">
+			<button type="submit" name="s" class="btn btn-default"></button>
+		</div>
+	</div>
+	</form>
+
+							
+							
+<ul class="nav navbar-nav navbar-right">
+	<li>
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+			Каталог		</a>
+					<ul class="dropdown-menu" role="menu">
+									<li><a href="/catalog/krepezh/">Крепеж</a></li>
+									<li><a href="/catalog/montazhnye_sistemy/">Монтажные системы</a></li>
+									<li><a href="/catalog/takelazh/">Такелаж</a></li>
+									<li><a href="/catalog/raskhodnye_materialy_i_osnastka/">Расходные материалы и оснастка</a></li>
+									<li><a href="/catalog/santekhnika/">Сантехника</a></li>
+									<li><a href="/catalog/instrument_ruchnoy/">Инструмент ручной</a></li>
+									<li><a href="/catalog/instrument_malyarno_shtukaturnyy/">Инструмент малярно-штукатурный</a></li>
+									<li><a href="/catalog/elektrika_i_svet/">Электрика и свет</a></li>
+									<li><a href="/catalog/izmerenie_rasstoyaniy_dlin_i_uglov_schetchiki/">Измерение расстояний, длин и углов, счетчики</a></li>
+									<li><a href="/catalog/sistemy_khraneniya/">Системы хранения</a></li>
+									<li><a href="/catalog/skobyanye_izdeliya/">Скобяные изделия</a></li>
+									<li><a href="/catalog/tovary_dlya_sada/">Товары для сада</a></li>
+									<li><a href="/catalog/stroitelnaya_khimiya/">Строительная химия</a></li>
+									<li><a href="/catalog/pomosty_lestnitsy/">Помосты, лестницы</a></li>
+									<li><a href="/catalog/spetsodezhda_i_siz/">Спецодежда и СИЗ</a></li>
+									<li><a href="/catalog/tovary_dlya_doma/">Товары для дома</a></li>
+									<li><a href="/catalog/avto_tovary/">Авто товары</a></li>
+									<li><a href="/catalog/tovary_dlya_aktivnogo_otdykha/">Товары для активного отдыха</a></li>
+									<li><a href="/catalog/elektroinstrumenty/">Электроинструменты</a></li>
+							</ul>
+			</li>
+	<li>
+		<a href="/franshiza-krepmarket/">
+			Франшиза		</a>
+			</li>
+	<li>
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+			Где купить		</a>
+					<ul class="dropdown-menu" role="menu">
+									<li><a href="/magaziny/">Центральный офис и склад</a></li>
+									<li><a href="/magaziny/magaziny-v-moskve/">Магазины в Москве</a></li>
+									<li><a href="/magaziny/magaziny-v-rossii/">Магазины в России</a></li>
+							</ul>
+			</li>
+	<li>
+		<a href>
+					</a>
+			</li>
+</ul>						
+						<div class="toggle-mobile-menu">
+							<span class="fa fa-bars"></span>
+						</div>
+
+						</div>
+					</nav>	
+
+					<div class="mobile-menu">
+						
+<div class="top-multi-menu">
+<ul>
+
+
+	
+	
+					<li>
+				<a href="javascript:void(0);" class="mob-parent">Каталог</a>
+				<span class="fa fa-angle-right fa-lg"></span>
+				<div class="submenu-wrapper"><ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/krepezh/">Крепеж</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/montazhnye_sistemy/">Монтажные системы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/takelazh/">Такелаж</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/raskhodnye_materialy_i_osnastka/">Расходные материалы и оснастка</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/santekhnika/">Сантехника</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/instrument_ruchnoy/">Инструмент ручной</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/instrument_malyarno_shtukaturnyy/">Инструмент малярно-штукатурный</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/elektrika_i_svet/">Электрика и свет</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/izmerenie_rasstoyaniy_dlin_i_uglov_schetchiki/">Измерение расстояний, длин и углов, счетчики</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/sistemy_khraneniya/">Системы хранения</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/skobyanye_izdeliya/">Скобяные изделия</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/tovary_dlya_sada/">Товары для сада</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/stroitelnaya_khimiya/">Строительная химия</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/pomosty_lestnitsy/">Помосты, лестницы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/spetsodezhda_i_siz/">Спецодежда и СИЗ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/tovary_dlya_doma/">Товары для дома</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/avto_tovary/">Авто товары</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/tovary_dlya_aktivnogo_otdykha/">Товары для активного отдыха</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalog/elektroinstrumenty/">Электроинструменты</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+		
+							<li><a href="/franshiza-krepmarket/" class="root-item">Франшиза</a></li>
+			
+		
+	
+	
+
+	
+	
+					<li>
+				<a href="javascript:void(0);" class="mob-parent">Где купить</a>
+				<span class="fa fa-angle-right fa-lg"></span>
+				<div class="submenu-wrapper"><ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/magaziny/">Центральный офис и склад</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/magaziny/magaziny-v-moskve/">Магазины в Москве</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/magaziny/magaziny-v-rossii/">Магазины в России</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+		
+							<li><a href class="root-item"></a></li>
+			
+		
+	
+	
+
+
+</ul>
+</div>
+
+
+
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+<div class="container-fluid content">
+	<div class="row">
+		<div class="container">
+		<div class="row">
+
+							                
+
+
+<div class="col-xs-12">
+    <h1>Такой станицы нет.</h1>
+    <p>
+        <a href="/">Вернуться на главную</a>
+    </p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="container-fluid footer-layer">
+    
+        <div class="container">
+            <div class="row">
+				<div class="col-xs-6 col-md-2 col-sm-3 col-ultra-xs bottom-menu-wrap">
+					<h3> О Нас <span class="fa fa-angle-right fa-lg"></span></h3>
+					<ul class="bottommenu">
+			<li><a href="/kompaniya/">Компания</a></li>
+			<li><a href="/magaziny/">Контакты</a></li>
+			<li><a href="/sotrudnichestvo/">Сотрудничество</a></li>
+			<li><a href="/razvitie-seti/">Развитие Сети</a></li>
+			<li><a href="/diskontnye-karty/">Дисконтные карты</a></li>
+			<li><a href></a></li>
+	</ul>				</div>
+				<div class="col-xs-6 col-md-2 col-sm-3 col-ultra-xs bottom-menu-wrap">
+					<h3> Каталог <span class="fa fa-angle-right fa-lg"></span></h3>
+					<ul class="bottommenu">
+			<li><a href="/catalog/">Категории</a></li>
+			<li><a href="/brands/">Производители</a></li>
+			<li><a href="/basket/">Корзина</a></li>
+			<li><a href="/personal/">Личный кабинет</a></li>
+			<li><a href="/tekhnicheskiy-katalog/">Технический Каталог</a></li>
+	</ul>				</div>
+				<div class="col-xs-6 col-md-2 col-sm-3 col-ultra-xs bottom-menu-wrap">
+					<h3> Франшиза <span class="fa fa-angle-right fa-lg"></span></h3>
+					<ul class="bottommenu">
+			<li><a href="http://крепмаркет.рф/">Франшиза «Крепмаркет»</a></li>
+			<li><a href="/magaziny/magaziny-v-rossii/">Магазины В России</a></li>
+			<li><a href></a></li>
+	</ul>				</div>
+				<div class="col-xs-6 col-md-2 col-sm-3 col-ultra-xs bottom-menu-wrap">
+					<h3> Помощь <span class="fa fa-angle-right fa-lg"></span></h3>
+					<ul class="bottommenu">
+			<li><a href="/help/">ОПЛАТА И ДОСТАВКА</a></li>
+			<li><a href="/magaziny/magaziny-v-moskve/">ПУНКТЫ САМОВЫВОЗА</a></li>
+			<li><a href="/pravila-raboty-magazina/">ПРАВИЛА МАГАЗИНА</a></li>
+			<li><a href="/personal/orders/">ПРОВЕРИТЬ СТАТУС ЗАКАЗА</a></li>
+			<li><a href="/calc.php">КАЛЬКУЛЯТОР</a></li>
+			<li><a href></a></li>
+	</ul>				</div>
+                <div class="col-xs-12 col-md-4 col-sm-12 copyright-and-info">
+                    <p>
+ <br>
+	 «КРЕПМАРКЕТ»<br>
+	 МОСКВА, ПУТИЛКОВСКОЕ ШОССЕ, 111А<br>
+	 ОГРН1147746682401, ИНН7708815451<br>
+ <strong> </strong>
+</p>
+<p>
+</p>
+<h4><strong>Отдел продаж: </strong></h4>
+ <strong> </strong>
+<p>
+</p>
+<h4><strong>+7 (495) 989-74-04</strong></h4>
+<h3></h3>
+ <a href="mailto:order@krepmarket.ru">order@krepmarket.ru</a><br>
+<a href="mailto:zakaz@krepmarket.ru">zakaz@krepmarket.ru</a><br>
+<p>
+</p>
+<div align="left">
+	 <!-- footer -->
+	<p>
+	</p>
+	    <!--LiveInternet counter-->  <!--/LiveInternet--> <!-- begin of Top100 code -->  <!-- end of Top100 code --> <!-- Yandex.Metrika counter -->
+	<div style="display: none;">
+		 	</div>
+	  <!-- /Yandex.Metrika counter -->
+</div>
+ <br>					
+						
+					</div>
+					
+					<div class="itsfera"><a href="http://web.it-sfera.ru/"><img src="itsfera.png"></a></div>
+                </div>
+            </div>
+        </div>
+    
+
+
+		<div class="float-banner">
+			<a href="https://krepmarket.ru/catalog/tovary_dlya_doma/?utm_referrer=krepmarket.ru"><img src="float_mht.png"></a>
+			<div class="closefloat">&times;</div>
+		</div>
+		
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1624733596','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'7e4dc6aa641f28e6a21b5fa372167150'});</script><script type="text/javascript" src="../js/core.min.js"></script>
+<script type="text/javascript" src="../js/core_ajax.min.js"></script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14498217662854','/bitrix/js/main/core/css/core_popup.css?147219899629699','/bitrix/js/main/core/css/core_date.css?14721989929657','/local/templates/adaptive/css/bootstrap.css?1524668399142202','/local/templates/adaptive/css/bootstrap-theme.min.css?144982176119963','/local/templates/adaptive/css/jquery.bxslider.css?14498217613527','/local/templates/adaptive/css/ion.rangeSlider.css?14498217613355','/local/templates/adaptive/css/ion.rangeSlider.skinNice.css?14498217612095','/local/templates/adaptive/css/font-awesome.min.css?144982176123739','/local/templates/adaptive/css/jquery.raty.css?1449821761978','/local/templates/adaptive/css/fontello.css?14498217611909','/local/templates/adaptive/css/custom.css?155691036135454','/local/templates/adaptive/css/jstree.style.min.css?144982176124909','/local/templates/adaptive/css/responsive.css?152968223812660','/local/templates/adaptive/components/bitrix/system.auth.form/header-authorize/style.css?1449821761892','/local/templates/adaptive/components/bitrix/system.auth.registration/header-registration/style.css?1449821761446','/local/templates/adaptive/components/bitrix/sale.basket.basket/header-basket/style.css?144982176134732','/local/templates/adaptive/components/bitrix/menu/top-nav/style.css?1469458767618','/local/templates/adaptive/components/bitrix/menu/top-nav-mobile/style.css?1524316022618','/local/templates/adaptive/components/bitrix/menu/bottom-menu/style.css?1449821761490']); </script>
+
+
+<script type="text/javascript" src="../js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="../js/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="../js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="../js/jquery.raty.js"></script>
+<script type="text/javascript" src="../js/jstree.min.js"></script>
+<script type="text/javascript" src="../js/custom.js"></script>
+<script type="text/javascript" src="../js/script_1.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "df801cffd4b265a4dec23c3b6bd92cab"]); _ba.push(["host", "www.krepmarket.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script src="../js/ulogin.js"></script><script type="text/javascript">
+	var basketJSParams = {'SALE_DELETE':'Удалить','SALE_DELAY':'Отложить','SALE_TYPE':'Тип цены','TEMPLATE_FOLDER':'/local/templates/adaptive/components/bitrix/sale.basket.basket/header-basket','DELETE_URL':'/local/templates/adaptive/css/img/arrows.png?basket_action=delete&id=#ID#','DELAY_URL':'/local/templates/adaptive/css/img/arrows.png?basket_action=delay&id=#ID#','ADD_URL':'/local/templates/adaptive/css/img/arrows.png?basket_action=add&id=#ID#'}</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23167093-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9619185-1");
+pageTracker._trackPageview();
+} catch(err) {}</script><script type="text/javascript"> var spylog = { counter: 2016765, image: 22, next: spylog }; document.write(unescape('%3Cscript src%3D"http' + (('https:' == document.location.protocol) ? 's' : '') + '://counter.spylog.com/cnt.js" defer="defer"%3E%3C/script%3E')); </script><script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t44.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=0 height=0 alt='' title='LiveInternet'><\/a>")</script><script id="top100Counter" type="text/javascript" src="../top100.jcn"></script><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter10457779 = new Ya.Metrika({id:10457779, enableAll: true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script>
+<script src="../js/watch.js" type="text/javascript" defer="defer"></script></body>
+</html>
+ 
